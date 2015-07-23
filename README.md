@@ -37,7 +37,7 @@ Below is the sample structure of the **browsersInfo** object:
 
 **cmd** -  String (required). Additional command line parameters.
 
-**macOpenCmdTemplate** – [Mustache](https://github.com/janl/mustache.js) template. A string parameter to be used for launching the browser on a MacOS machine.
+**macOpenCmdTemplate** – A [Mustache template](https://github.com/janl/mustache.js#templates)  that provides parameters for launching the browser on a MacOS machine.
 
 
 ##open
